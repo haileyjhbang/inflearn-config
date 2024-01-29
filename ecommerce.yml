@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400 #1day in s
-  secret: user_token_ecommerce
+  secret: user_token_ecommerce11
 
 
 gateway:
