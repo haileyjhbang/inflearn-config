@@ -1,7 +1,7 @@
-token:
-  expiration_time: 86400 #1day in s
-  secret: user_token_ecommerce
+#token:
+#  expiration_time: 86400 #1day in s
+#  secret: user_token_ecommerce
 
 
-gateway:
-  ip: 172.18.0.6 #소스상사용되진않지만 배포시 확인필요
+#gateway:
+#  ip: 172.18.0.6 #소스상사용되진않지만 배포시 확인필요
